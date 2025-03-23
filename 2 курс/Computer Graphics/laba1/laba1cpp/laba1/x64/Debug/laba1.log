@@ -1,0 +1,33 @@
+﻿  laba1.cpp
+C:\Users\vadav\Desktop\Лабы\2 курс\Компьютерная графика\laba1cpp\laba1\laba1.cpp(19,16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\vadav\Desktop\Лабы\2 курс\Компьютерная графика\laba1cpp\laba1\laba1.cpp(22,16): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\vadav\Desktop\Лабы\2 курс\Компьютерная графика\laba1cpp\laba1\laba1.cpp(23,16): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\vadav\Desktop\Лабы\2 курс\Компьютерная графика\laba1cpp\laba1\laba1.cpp(26,19): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\vadav\Desktop\Лабы\2 курс\Компьютерная графика\laba1cpp\laba1\laba1.cpp(27,19): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\vadav\Desktop\Лабы\2 курс\Компьютерная графика\laba1cpp\laba1\laba1.cpp(44,16): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\vadav\Desktop\Лабы\2 курс\Компьютерная графика\laba1cpp\laba1\laba1.cpp(45,16): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\vadav\Desktop\Лабы\2 курс\Компьютерная графика\laba1cpp\laba1\laba1.cpp(47,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\vadav\Desktop\Лабы\2 курс\Компьютерная графика\laba1cpp\laba1\laba1.cpp(49,20): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\vadav\Desktop\Лабы\2 курс\Компьютерная графика\laba1cpp\laba1\laba1.cpp(51,19): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\vadav\Desktop\Лабы\2 курс\Компьютерная графика\laba1cpp\laba1\laba1.cpp(52,19): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\vadav\Desktop\Лабы\2 курс\Компьютерная графика\laba1cpp\laba1\laba1.cpp(67,16): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\vadav\Desktop\Лабы\2 курс\Компьютерная графика\laba1cpp\laba1\laba1.cpp(68,16): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\vadav\Desktop\Лабы\2 курс\Компьютерная графика\laba1cpp\laba1\laba1.cpp(73,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\vadav\Desktop\Лабы\2 курс\Компьютерная графика\laba1cpp\laba1\laba1.cpp(74,19): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\vadav\Desktop\Лабы\2 курс\Компьютерная графика\laba1cpp\laba1\laba1.cpp(89,16): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\vadav\Desktop\Лабы\2 курс\Компьютерная графика\laba1cpp\laba1\laba1.cpp(90,16): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\vadav\Desktop\Лабы\2 курс\Компьютерная графика\laba1cpp\laba1\laba1.cpp(103,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\vadav\Desktop\Лабы\2 курс\Компьютерная графика\laba1cpp\laba1\laba1.cpp(104,19): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\vadav\Desktop\Лабы\2 курс\Компьютерная графика\laba1cpp\laba1\laba1.cpp(119,16): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\vadav\Desktop\Лабы\2 курс\Компьютерная графика\laba1cpp\laba1\laba1.cpp(120,16): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\vadav\Desktop\Лабы\2 курс\Компьютерная графика\laba1cpp\laba1\laba1.cpp(146,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\vadav\Desktop\Лабы\2 курс\Компьютерная графика\laba1cpp\laba1\laba1.cpp(147,19): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\vadav\Desktop\Лабы\2 курс\Компьютерная графика\laba1cpp\laba1\laba1.cpp(168,16): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\vadav\Desktop\Лабы\2 курс\Компьютерная графика\laba1cpp\laba1\laba1.cpp(169,16): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\vadav\Desktop\Лабы\2 курс\Компьютерная графика\laba1cpp\laba1\laba1.cpp(194,18): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\vadav\Desktop\Лабы\2 курс\Компьютерная графика\laba1cpp\laba1\laba1.cpp(216,42): warning C4244: -=: преобразование "double" в "float", возможна потеря данных
+C:\Users\vadav\Desktop\Лабы\2 курс\Компьютерная графика\laba1cpp\laba1\laba1.cpp(232,16): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\vadav\Desktop\Лабы\2 курс\Компьютерная графика\laba1cpp\laba1\laba1.cpp(233,16): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\vadav\Desktop\Лабы\2 курс\Компьютерная графика\laba1cpp\laba1\laba1.cpp(258,18): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\vadav\Desktop\Лабы\2 курс\Компьютерная графика\laba1cpp\laba1\laba1.cpp(280,43): warning C4244: -=: преобразование "double" в "float", возможна потеря данных
+  laba1.vcxproj -> C:\Users\vadav\Desktop\Лабы\2 курс\Компьютерная графика\laba1cpp\x64\Debug\laba1.exe
